@@ -1,2 +1,1 @@
-# MyProjectsClone
-This is the trial
+The todo list for the HackerEarth AngelPrime Challenge 
